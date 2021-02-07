@@ -30,8 +30,8 @@ https://www.fiverr.com/ahmedbodi/setup-a-cryptocurrency-mining-pool
 
 
 # Requirements
-*stratum-mining* is built in python. I have been testing it with 2.7.3, but it should work with other versions. The requirements for running the software are below.
-* Python 2.7+
+*stratum-mining* is built in python. I have been testing it with 3.6.8, but it should work with other versions. The requirements for running the software are below.
+* Python 3.6+
 * python-twisted
 * stratum
 * MySQL Server 
